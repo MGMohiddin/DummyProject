@@ -9,6 +9,8 @@ public class Test2 {
 		System.out.println("f="+f);
 		System.out.println("ch="+ch);
 		System.out.println("Run faster and crack interview....");
+		
+		System.out.println("Sinusites is irrtating to combact it is very difficult....");
 	
     }
 
